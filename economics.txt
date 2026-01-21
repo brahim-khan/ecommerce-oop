@@ -11,3 +11,5 @@ order_id,date_time,customer_id,customer_name,seller_id,seller_name,product_id,pr
 10,2026-01-19 18:50:00,C2010,Huzaifa Raza,S1004,Ayesha Noor,5,HP Pavilion 14,210000.00,1,210000.00
 11,2026-01-22 00:16:40,12,ibrahim,S1001,Ali Khan,1,iPhone 13,155000.00,1,155000.00
 11,2026-01-22 00:16:40,12,ibrahim,S1002,Sara Ahmed,3,Samsung A54,98000.00,1,98000.00
+12,2026-01-22 00:32:03,87,ibrahim khan,09,ibrahim khan,12,mini washing machine,1300.00,1,1300.00
+13,2026-01-22 00:32:21,87,ibrahim khan,23,ibrahim,11,mini printer,1200.00,1,1200.00

@@ -10,3 +10,4 @@ no,name,password,id,email,address,phone
 9,Zoya Malik,zoya123,C2009,zoya@gmail.com,Bahawalpur,03101230009
 10,Huzaifa Raza,huzaifa123,C2010,huzaifa@gmail.com,Rawalpindi,03101230010
 11,ibrahim,12345,12,p229275@pwr.nu.edu.pk,77777,123456
+12,ibrahim khan,kahn@12345,87,khan@gamil.com,karachi,0987979765

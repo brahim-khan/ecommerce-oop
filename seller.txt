@@ -11,3 +11,4 @@ no,name,password,id,email,address,phone,cnic
 10,Farhan Saeed,farhan123,S1010,farhan@gmail.com,Rawalpindi Saddar,03091234567,37406-0123456-0
 
 12,ibrahim,khan12345,23,khan@gmail.com,77777,343434,1111111
+13,ibrahim khan,khan@12345,09,khanibro@gmail.com,5c-karachi,09456798,0308-909087-1

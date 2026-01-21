@@ -9,4 +9,5 @@ product_id,seller_id,seller_name,product_name,description,category,brand,price,s
 8,S1007,Bilal Hassan,Smart Watch T500,Bluetooth Calling,gadgets,T500,3200.00,40,active,3.9,2026-01-13 18:45:00
 9,S1008,Zain Malik,USB-C Charger 25W,Fast Charging,accessories,Anker,4500.00,50,active,4.0,2026-01-14 13:20:00
 10,S1009,Hira Nawaz,Power Bank 20000mAh,Quick Charge,gadgets,Xiaomi,6500.00,30,active,4.2,2026-01-14 19:00:00
-11,23,ibrahim,mini printer,mini printer for students,home improvment,kiwi,1200.00,33,active,0,2026-01-22 00:20:10
+11,23,ibrahim,mini printer,mini printer for students,home improvment,kiwi,1200.00,32,active,0,2026-01-22 00:20:10
+12,09,ibrahim khan,mini washing machine,portable washing machine,home appliances,quen,1300.00,33,active,0,2026-01-22 00:30:04
