@@ -1,0 +1,13 @@
+no,name,password,id,email,address,phone,cnic
+1,Ali Khan,ali123,S1001,ali@gmail.com,Lahore Johar Town,03001234567,35202-1234567-1
+2,Sara Ahmed,sara123,S1002,sara@gmail.com,Karachi Gulshan,03011234567,42101-2345678-2
+3,Usman Raza,usman123,S1003,usman@gmail.com,Islamabad G-11,03021234567,61101-3456789-3
+4,Ayesha Noor,ayesha123,S1004,ayesha@gmail.com,Faisalabad D Ground,03031234567,33100-4567890-4
+5,Hamza Iqbal,hamza123,S1005,hamza@gmail.com,Multan Cantt,03041234567,36102-5678901-5
+6,Mariam Sheikh,mariam123,S1006,mariam@gmail.com,Peshawar University Rd,03051234567,37405-6789012-6
+7,Bilal Hassan,bilal123,S1007,bilal@gmail.com,Quetta Jinnah Rd,03061234567,51403-7890123-7
+8,Zain Malik,zain123,S1008,zain@gmail.com,Sialkot Cantt,03071234567,34301-8901234-8
+9,Hira Nawaz,hira123,S1009,hira@gmail.com,Bahawalpur Model Town,03081234567,31202-9012345-9
+10,Farhan Saeed,farhan123,S1010,farhan@gmail.com,Rawalpindi Saddar,03091234567,37406-0123456-0
+
+12,ibrahim,khan12345,23,khan@gmail.com,77777,343434,1111111

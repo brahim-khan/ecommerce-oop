@@ -1,0 +1,12 @@
+product_id,seller_id,seller_name,product_name,description,category,brand,price,stock,status,rating,created_at
+1,S1001,Ali Khan,iPhone 13,128GB PTA Approved,electronics,Apple,155000.00,14,active,4.6,2026-01-10 11:20:00
+2,S1001,Ali Khan,AirPods Pro,Noise Canceling,electronics,Apple,52000.00,25,active,4.7,2026-01-10 11:22:00
+3,S1002,Sara Ahmed,Samsung A54,8GB 128GB,electronics,Samsung,98000.00,19,active,4.4,2026-01-11 09:10:00
+4,S1003,Usman Raza,Dell Inspiron 15,Core i5 11th Gen,computers,Dell,165000.00,8,active,4.2,2026-01-11 14:05:00
+5,S1004,Ayesha Noor,HP Pavilion 14,Core i7 12th Gen,computers,HP,210000.00,5,active,4.5,2026-01-12 12:00:00
+6,S1005,Hamza Iqbal,Logitech Mouse M185,Wireless Mouse,accessories,Logitech,2500.00,60,active,4.1,2026-01-12 16:15:00
+7,S1006,Mariam Sheikh,Mechanical Keyboard,Kailh Blue Switches,accessories,Redragon,8500.00,35,active,4.3,2026-01-13 10:30:00
+8,S1007,Bilal Hassan,Smart Watch T500,Bluetooth Calling,gadgets,T500,3200.00,40,active,3.9,2026-01-13 18:45:00
+9,S1008,Zain Malik,USB-C Charger 25W,Fast Charging,accessories,Anker,4500.00,50,active,4.0,2026-01-14 13:20:00
+10,S1009,Hira Nawaz,Power Bank 20000mAh,Quick Charge,gadgets,Xiaomi,6500.00,30,active,4.2,2026-01-14 19:00:00
+11,23,ibrahim,mini printer,mini printer for students,home improvment,kiwi,1200.00,33,active,0,2026-01-22 00:20:10

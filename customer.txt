@@ -1,0 +1,12 @@
+no,name,password,id,email,address,phone
+1,Ahmad Raza,ahmad123,C2001,ahmad@gmail.com,Lahore,03101230001
+2,Noor Fatima,noor123,C2002,noor@gmail.com,Karachi,03101230002
+3,Hassan Ali,hassan123,C2003,hassan@gmail.com,Islamabad,03101230003
+4,Laiba Khan,laiba123,C2004,laiba@gmail.com,Faisalabad,03101230004
+5,Saad Ahmed,saad123,C2005,saad@gmail.com,Multan,03101230005
+6,Maha Noor,maha123,C2006,maha@gmail.com,Peshawar,03101230006
+7,Umar Farooq,umar123,C2007,umar@gmail.com,Quetta,03101230007
+8,Areeba Iqbal,areeba123,C2008,areeba@gmail.com,Sialkot,03101230008
+9,Zoya Malik,zoya123,C2009,zoya@gmail.com,Bahawalpur,03101230009
+10,Huzaifa Raza,huzaifa123,C2010,huzaifa@gmail.com,Rawalpindi,03101230010
+11,ibrahim,12345,12,p229275@pwr.nu.edu.pk,77777,123456
